@@ -1,8 +1,11 @@
-[![Examitext](https://github.com/DonaldWhyte/examitext/raw/wiki/header.png)]
+![Examitext](https://github.com/DonaldWhyte/examitext/raw/wiki/header.png)
 
 A web application which examines text documents, chat logs and source code to provide meaningful statistics about them.
 
-[![examitext screenshot](https://github.com/DonaldWhyte/examitext/raw/wiki/Thumbnail%20-%20Examitext%20Screenshot%203.png)]
+![examitext screenshot](https://github.com/DonaldWhyte/examitext/raw/wiki/Thumbnail%20-%20Examitext%20Screenshot%201.png)
+![examitext screenshot](https://github.com/DonaldWhyte/examitext/raw/wiki/Thumbnail%20-%20Examitext%20Screenshot%202.png)
+![examitext screenshot](https://github.com/DonaldWhyte/examitext/raw/wiki/Thumbnail%20-%20Examitext%20Screenshot%203.png)
+![examitext screenshot](https://github.com/DonaldWhyte/examitext/raw/wiki/Thumbnail%20-%20Examitext%20Screenshot%204.png)
 
 Examitext is a tool which analyses three different kinds of textual data - text documents, chat logs and source code - providing various statistics and information on the data. Both the back-end processing and the front-end interface are developed purely in JavaScript, and can be run in any modern browser. In addition to that, there is an alternate PHP version of Examitext, which allows users to input local or remote (given a URL) files, rather than pasting in the text directly.
 
